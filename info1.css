@@ -1,0 +1,134 @@
+@media screen and (max-width: 425px) {
+
+    body {
+        margin: 0;
+        border: 0;
+        background-color: black;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #hamburguer {
+        margin-right: 60px;
+        width: 40px;
+        height: 40%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 13px
+    }
+    
+    #hamburguer span {
+        width: 104%;
+        height: 6px;
+        background-color: white;
+        border-radius: 20px;
+        margin-left: 192px;
+        margin-top: 5px;  
+    }
+    .barra{
+        width: 135px;
+        height: 15px;
+        border: none;
+        margin-top: -5px;
+    }
+    .banco{
+        color: aqua;
+        display: flex;
+        justify-content: space-around;
+        width: 79%;  
+    }
+    .Info{
+        margin-right: 15px;
+    }
+    .Barra{
+        display: flex;
+        align-items: center;
+        width: 0%;
+        margin-top: 0px;
+    
+    }
+    .postos{
+        height: 177px;
+        display: flex;
+        margin-top: -35px;
+        width: 326px;
+    }
+    img{
+        width: 160px;
+        height: 120px;
+        background-size: cover;
+        padding-left: 5px;
+
+    }   
+    h2{
+        color: aqua;
+        margin-left: 8px;
+        font-size: 12pt;
+    }
+    .linha2{
+        margin-top: -50px;
+        margin-bottom: 11px;
+        border: 0;
+        border-top: 1px solid rgba(0,0,0,.1);
+        background-color: white;
+        width: 315px;
+        display: flex;
+    }
+    h3{
+        color: aqua;
+        margin-left: 8px;
+        font-size: 11pt;
+
+    }
+    h4{
+        color: aqua;
+        margin-left: 8px;
+        font-size: 11pt;
+    }
+    h5{
+        color: aqua;
+        margin-left: 13px;
+        font-size: 12pt;
+        display: flex;
+        justify-content: center;
+        margin-top: -5px;
+
+    }
+    h6{
+        color: white;
+        margin-left: 13px;
+        font-size: 12pt;
+        display: flex;
+        justify-content: center;
+        margin-top: 5px;
+    }
+    .h7{
+        color: aqua;
+        margin-left: 13px;
+        font-size: 12pt;
+        display: flex;
+        justify-content: center;
+        margin-top: -5px;
+    }
+    .postos4{
+        color: aqua;
+        margin-left: 8px;
+        font-size: 11pt;
+
+    }
+    button{
+        border: none;
+        width: 32px;
+        height: 32px;
+    }
+    .search{
+        width: 32px;
+        height: 24px;
+        cursor: pointer;
+        margin-top: 0px;
+    }
+}
+    
+   
